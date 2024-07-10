@@ -1,0 +1,45 @@
+{
+    "students": [
+      {
+        "name": "Stephen Ombwodo",
+        "age": 32,
+        "location": "Utawala",
+        "id": "598e"
+      },
+      {
+        "name": "Franko Odiesis",
+        "age": 31,
+        "location": "Utawala",
+        "id": "0ee0"
+      },
+      {
+        "name": "Peter Jatelo",
+        "age": 34,
+        "location": "Utawala",
+        "id": "e764"
+      }
+    ],
+    "tms": [
+      {
+        "name": "Titus Ouko",
+        "languages": [
+          "Python",
+          "Javascript"
+        ],
+        "id": "6054"
+      },
+      {
+        "name": "Rodgers",
+        "languages": [
+          "Python",
+          "Javascript"
+        ],
+        "id": "13d9"
+      },
+      {
+        "id": "301c",
+        "title": "Third Article",
+        "content": "Another example!"
+      }
+    ]
+  }
